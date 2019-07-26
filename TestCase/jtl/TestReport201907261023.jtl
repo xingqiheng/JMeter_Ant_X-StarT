@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1709" it="0" lt="1709" ct="1326" ts="1564107834902" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-2" dt="text" by="1191" sby="329" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1311" it="0" lt="1311" ct="929" ts="1564107835299" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-4" dt="text" by="1191" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1509" it="0" lt="1509" ct="1127" ts="1564107835101" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-3" dt="text" by="1191" sby="328" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1564107836660" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-3" dt="text" by="986" sby="317" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1564107836660" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-4" dt="text" by="986" sby="317" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1564107836660" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-2" dt="text" by="987" sby="318" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="2683" it="0" lt="2683" ct="1442" ts="1564107834786" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-1" dt="text" by="1191" sby="329" ng="11" na="11">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="395" it="0" lt="395" ct="40" ts="1564107837094" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-13" dt="text" by="1191" sby="329" ng="12" na="12">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="599" it="0" lt="599" ct="241" ts="1564107836893" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-12" dt="text" by="1191" sby="329" ng="12" na="12">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1564107837491" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-13" dt="text" by="987" sby="318" ng="12" na="12">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1564107837493" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-12" dt="text" by="987" sby="318" ng="11" na="11">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="67" ct="40" ts="1564107837470" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-1" dt="text" by="987" sby="318" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="991" it="0" lt="991" ct="445" ts="1564107836692" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-11" dt="text" by="1191" sby="329" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="410" it="0" lt="410" ct="53" ts="1564107837292" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-14" dt="text" by="1191" sby="329" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1564107837685" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-11" dt="text" by="987" sby="318" ng="10" na="10">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1564107837704" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-14" dt="text" by="987" sby="318" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="2310" it="0" lt="2310" ct="821" ts="1564107835501" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-5" dt="text" by="1191" sby="329" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="380" it="0" lt="380" ct="33" ts="1564107837488" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-15" dt="text" by="1191" sby="328" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="62" ct="35" ts="1564107837813" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-5" dt="text" by="987" sby="318" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1564107837869" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-15" dt="text" by="986" sby="317" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="267" it="0" lt="267" ct="37" ts="1564107837687" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-16" dt="text" by="1191" sby="328" ng="7" na="7">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1564107837956" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-16" dt="text" by="986" sby="317" ng="7" na="7">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="2345" it="0" lt="2345" ct="838" ts="1564107835693" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-6" dt="text" by="1191" sby="329" ng="6" na="6">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1948" it="0" lt="1948" ct="437" ts="1564107836094" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-8" dt="text" by="1191" sby="327" ng="6" na="6">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1564107838044" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-8" dt="text" by="985" sby="316" ng="6" na="6">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="36" ts="1564107838039" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-6" dt="text" by="987" sby="318" ng="6" na="6">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="320" it="0" lt="320" ct="43" ts="1564107837886" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-17" dt="text" by="1191" sby="329" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1564107838207" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-17" dt="text" by="987" sby="318" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="2001" it="0" lt="2001" ct="247" ts="1564107836295" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-9" dt="text" by="1191" sby="327" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1818" it="0" lt="1818" ct="55" ts="1564107836492" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-10" dt="text" by="1191" sby="327" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="2425" it="0" lt="2425" ct="651" ts="1564107835896" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-7" dt="text" by="1191" sby="327" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="57" ct="32" ts="1564107838298" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-9" dt="text" by="985" sby="316" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="60" ct="37" ts="1564107838321" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-7" dt="text" by="985" sby="316" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="346" it="0" lt="345" ct="39" ts="1564107838089" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-18" dt="text" by="1191" sby="329" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="20" it="0" lt="20" ct="0" ts="1564107838436" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-18" dt="text" by="987" sby="318" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="224" it="0" lt="224" ct="0" ts="1564107838312" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-10" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="269" it="0" lt="269" ct="36" ts="1564107838487" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-20" dt="text" by="1191" sby="327" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="470" it="0" lt="470" ct="39" ts="1564107838286" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-19" dt="text" by="1191" sby="327" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1564107838757" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-20" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1564107838758" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-19" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="335" it="0" lt="335" ct="34" ts="1564107838685" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-21" dt="text" by="1191" sby="327" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1564107839021" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-21" dt="text" by="985" sby="316" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="387" it="0" lt="387" ct="36" ts="1564107838882" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-22" dt="text" by="1191" sby="327" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1564107839271" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-22" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="594" it="0" lt="594" ct="281" ts="1564107839284" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-24" dt="text" by="1191" sby="329" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1564107839878" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-24" dt="text" by="987" sby="318" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="837" it="0" lt="837" ct="477" ts="1564107839083" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-23" dt="text" by="1191" sby="329" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="451" it="0" lt="451" ct="88" ts="1564107839481" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-25" dt="text" by="1191" sby="329" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1564107839920" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-23" dt="text" by="987" sby="318" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1564107839932" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-25" dt="text" by="987" sby="318" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="389" it="0" lt="389" ct="30" ts="1564107839682" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-26" dt="text" by="1191" sby="329" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1564107840073" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-26" dt="text" by="987" sby="318" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="402" it="0" lt="402" ct="45" ts="1564107839879" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-27" dt="text" by="1191" sby="328" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1564107840281" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-27" dt="text" by="986" sby="317" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="389" it="0" lt="389" ct="35" ts="1564107840082" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-28" dt="text" by="1191" sby="328" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1564107840473" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-28" dt="text" by="986" sby="317" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="392" it="0" lt="392" ct="38" ts="1564107840277" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-29" dt="text" by="1191" sby="329" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1564107840670" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-29" dt="text" by="987" sby="318" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="378" it="0" lt="378" ct="26" ts="1564107840476" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-30" dt="text" by="1191" sby="329" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1564107840855" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-30" dt="text" by="987" sby="318" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="393" it="0" lt="393" ct="37" ts="1564107840683" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-31" dt="text" by="1191" sby="327" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1564107841077" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-31" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="272" it="0" lt="272" ct="33" ts="1564107840881" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-32" dt="text" by="1191" sby="327" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1564107841154" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-32" dt="text" by="985" sby="316" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="381" it="0" lt="381" ct="38" ts="1564107841080" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-33" dt="text" by="1191" sby="327" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1564107841462" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-33" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="309" it="0" lt="309" ct="38" ts="1564107841277" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-34" dt="text" by="1191" sby="327" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1564107841587" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-34" dt="text" by="985" sby="316" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="904" it="0" lt="904" ct="588" ts="1564107841479" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-35" dt="text" by="1191" sby="329" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1564107842384" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-35" dt="text" by="987" sby="318" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="527" it="0" lt="527" ct="172" ts="1564107842075" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-38" dt="text" by="1191" sby="329" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1564107842603" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-38" dt="text" by="987" sby="318" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="880" it="0" lt="880" ct="200" ts="1564107841880" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-37" dt="text" by="1191" sby="329" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1085" it="0" lt="1085" ct="403" ts="1564107841677" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-36" dt="text" by="1191" sby="329" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1564107842763" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-36" dt="text" by="987" sby="318" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1564107842761" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-37" dt="text" by="987" sby="318" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="562" it="0" lt="562" ct="207" ts="1564107842277" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-39" dt="text" by="1191" sby="328" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1564107842840" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-39" dt="text" by="986" sby="317" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="1291" it="0" lt="1291" ct="928" ts="1564107842873" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-42" dt="text" by="1191" sby="329" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1486" it="0" lt="1486" ct="1123" ts="1564107842678" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-41" dt="text" by="1191" sby="329" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1564107844165" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-42" dt="text" by="987" sby="318" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1564107844166" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-41" dt="text" by="987" sby="318" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="1026" it="0" lt="1026" ct="134" ts="1564107843676" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-46" dt="text" by="1191" sby="327" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="2292" it="0" lt="2292" ct="1318" ts="1564107842475" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-40" dt="text" by="1191" sby="328" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1564107844703" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-46" dt="text" by="985" sby="316" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="511" it="0" lt="510" ct="207" ts="1564107844276" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-49" dt="text" by="1191" sby="329" ng="9" na="9">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1722" it="0" lt="1722" ct="737" ts="1564107843075" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-43" dt="text" by="1191" sby="327" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="926" it="0" lt="926" ct="49" ts="1564107843874" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-47" dt="text" by="1191" sby="329" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1564107844789" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-49" dt="text" by="987" sby="318" ng="8" na="8">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="760" it="0" lt="760" ct="403" ts="1564107844072" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-48" dt="text" by="1191" sby="329" ng="7" na="7">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1564107844798" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-43" dt="text" by="985" sby="316" ng="7" na="7">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="37" ct="0" ts="1564107844802" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-47" dt="text" by="987" sby="318" ng="6" na="6">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="76" ct="32" ts="1564107844768" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-40" dt="text" by="986" sby="317" ng="5" na="5">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1564107844834" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-48" dt="text" by="987" sby="318" ng="4" na="4">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="1717" it="0" lt="1717" ct="539" ts="1564107843271" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-44" dt="text" by="1191" sby="327" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="1523" it="0" lt="1523" ct="339" ts="1564107843473" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-45" dt="text" by="1191" sby="327" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="527" it="0" lt="527" ct="43" ts="1564107844472" s="true" lb="平台登录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-50" dt="text" by="1191" sby="329" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/staff/login</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1564107844990" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-44" dt="text" by="985" sby="316" ng="3" na="3">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1564107844998" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-45" dt="text" by="985" sby="316" ng="2" na="2">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="25" ct="0" ts="1564107845001" s="true" lb="xmind登陆记录" rc="201" rm="Created" tn="物联网运行平台-1月份接口测试 1-50" dt="text" by="987" sby="318" ng="1" na="1">
+  <assertionResult>
+    <name>响应断言</name>
+    <failure>false</failure>
+    <error>false</error>
+  </assertionResult>
+  <java.net.URL>https://xymind.net:3000/api/xmind_log/login</java.net.URL>
+</httpSample>
+
+</testResults>
